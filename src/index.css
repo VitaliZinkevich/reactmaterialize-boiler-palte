@@ -1,0 +1,11 @@
+.appbody {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    }
+
+  main {
+      background-color: blue;
+    flex: 1 0 auto;
+  }
+      
